@@ -1,4 +1,0 @@
-Qdemo
-=====
-
-this is demo
